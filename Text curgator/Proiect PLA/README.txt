@@ -1,0 +1,1 @@
+The direction of the text is controlled by left click.
